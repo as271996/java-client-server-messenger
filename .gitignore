@@ -1,0 +1,18 @@
+# NetBeans private settings
+**/nbproject/private/
+
+# Build output
+**/build/
+**/dist/
+
+# Compiled files
+*.class
+*.jar
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+
+# Runtime data
+Data.xml
+History.xml
