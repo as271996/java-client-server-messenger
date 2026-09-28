@@ -340,7 +340,7 @@ java -jar dist/jMessenger.jar
 
 ### 4. Run Multiple Clients
 
-Start more than one instance of `jMessenger` to simulate multiple connected users.
+Start multiple instances of `jMessenger` to simulate multiple connected users.
 
 Each client connects to the central `jServer`, after which users can:
 
